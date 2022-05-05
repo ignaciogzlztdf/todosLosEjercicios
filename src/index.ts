@@ -21,7 +21,7 @@ if (numeroIngresado === 0) {
 } else {
   alert("El número ingresado es impar.");
 }
-
+//
 // Ejercicio: Descuento Octubre
 console.log(" ");
 console.log("Ejercicio: Descuento Octubre");
@@ -41,7 +41,7 @@ let mes: string | null = prompt(
 
 if (mes === "octubre") {
   alert(
-    "¡Su compra tiene un descuento del 15% porque este mes celebramos otro cumpleaños de nuestra querida tienda!"
+    "¡Su compra tiene un descuento del 15%! Este mes celebramos otro cumpleaños de nuestra querida tienda y queremos ofrecer a nuestros clientes este descuento en todas sus compras."
   );
 }
 
